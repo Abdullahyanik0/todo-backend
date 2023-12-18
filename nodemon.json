@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "mervesanli", 
+        "MONGO_PASSWORD": "NNXXjDpivrvd4fnm",
+        "MONGO_DB": "todoapp"
+    }
+}
+
